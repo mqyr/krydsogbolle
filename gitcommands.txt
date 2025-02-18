@@ -1,0 +1,15 @@
+at lave ny fil
+
+> echo fil_indhold > fil_navn.txt
+
+at tilføje til git
+
+> git add fil_navn.txt
+> git commit -a -m "besked" 
+
+man kan skrive add flere gange på et commit
+
+
+at uploaded til project
+
+> git push
